@@ -1,14 +1,15 @@
 # apple-fonts
-> A list of apple fonts in a .ttf format
+> A list of apple fonts in a `.ttf`/`.otf` format
 
 > [!NOTE]
 > All of the fonts rights are reserved to Apple.
 
 ## Available fonts
 This is the list of the available fonts I added to the repository. Did not found your Apple font here? Open an issue about it, and I'll upload it.
+
 * SF Hebrew
-  * Normal
-  * Rounded
+* SF Pro (Normal, Text, Display, Italic)
+
 
 ## Contributing
 Found some fonts that I've missed or didn't upload yet? Feel free to fork, open a pull request and help me with that project!
